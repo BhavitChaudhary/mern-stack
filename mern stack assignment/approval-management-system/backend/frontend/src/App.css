@@ -1,0 +1,17 @@
+/* App.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Black background */
+    font-family: 'Arial', sans-serif; /* Font family */
+  }
+  
+  h3, h6 {
+    text-align: center;
+    color: white; /* White color for text */
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
